@@ -17,7 +17,7 @@ This **AI-powered Medical Diagnosis App** utilizes **Large Language Models (LLM)
 ### **1️⃣ Clone the Repository**  
 ```bash
 git clone https://github.com/shahshaik2000/AI-ML-Medical-Diagnosis.git
-cd Medical-Diagnosis-App
+cd AI-ML-Medical-Diagnosis
 ```
 
 ### **2️⃣ Install Dependencies**  
